@@ -15,7 +15,7 @@ This Python script performs DNS enumeration for a specified domain, retrieving v
 
     ```bash
     git clone https://github.com/yourusername/subdomain-enumeration.git
-    cd subdomain-enumeration
+    cd DNS-Enumeration_Tool
     ```
 
 2. Install dependencies:
